@@ -1,0 +1,12 @@
+{
+  "name": "dlingo-relay-server",
+  "version": "1.0.0",
+  "description": "Zero-dependency WebSocket relay so two phones can join the same D Lingo room code and exchange messages in real time. No npm install required.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
